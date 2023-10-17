@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+        <dict>
+            <key>items</key>
+            <array>
+                <dict>
+                    <key>assets</key>
+                    <array>
+                        <dict>
+                            <key>kind</key>
+                            <string>software-package</string>
+                            <key>url</key>
+                            <string>https://github.com/Sans1228/Moop-Perm-Direct-Install/releases/download/Directs/Signed.Gbox.ipa</string>
+                        </dict>
+                        <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>https://localhost.usescarlet.com:59070/icon.png</string>
+                        </dict>
+                    </array>
+                    <key>metadata</key>
+                    <dict>
+                        <key>bundle-identifier</key>
+                        <string>com.83B83CCD-E302-4606-A836-DF66082F3EC8</string>
+                        <key>bundle-version</key>
+                        <string>1.0</string>
+                        <key>kind</key>
+                        <string>software</string>
+                        <key>title</key>
+                        <string>GBox</string>
+                    </dict>
+                </dict>
+            </array>
+        </dict>
+    </plist>
