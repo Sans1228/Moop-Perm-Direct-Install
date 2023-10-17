@@ -1,5 +1,4 @@
-
-    <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
     <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
     <plist version="1.0">
         <dict>
@@ -12,7 +11,7 @@
                             <key>kind</key>
                             <string>software-package</string>
                             <key>url</key>
-                            <string>https://github.com/Sans1228/Daisukes-private-perm-direct-install/releases/download/Sans/signedIPA.ipa</string>
+                            <string>https://github.com/Sans1228/Moop-Perm-Direct-Install/releases/download/Directs/Roblox.Hack.Signed.ipa</string>
                         </dict>
                         <dict>
                         <key>kind</key>
